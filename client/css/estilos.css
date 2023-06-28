@@ -1,0 +1,49 @@
+body {
+  background-image: url("../img/fondo.png");
+}
+
+main {
+  background-image: url("../img/fondo-form.png");
+}
+
+h1 {
+  margin-top: 150px;
+}
+
+.seccion-formulario,
+.seccion-tabla {
+  width: 60%;
+  margin-left: 20%;
+}
+
+#loader-section {
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  /* height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+#logo {
+  height: 50px;
+  width: 50px;
+}
+
+.icono-largo {
+  height: 30px;
+  width: 50px;
+}
+
+.icono {
+  height: 30px;
+  width: 30px;
+}

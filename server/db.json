@@ -1,0 +1,12 @@
+{
+  "heroes": [
+    {
+      "id": 1687907992950,
+      "nombre": "clark",
+      "fuerza": 260,
+      "alias": "superman",
+      "editorial": "DC",
+      "arma": "Musculos"
+    }
+  ]
+}
